@@ -1,0 +1,5 @@
+<root>
+    <item name='java.lang.Object boolean equals(java.lang.Object)'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
