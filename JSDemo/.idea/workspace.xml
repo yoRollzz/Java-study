@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="18686e92-ee19-412a-a657-a94ecde989ac" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +32,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1j2UwTl9H1PAdFpFu8979xFgFe9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,12 +55,20 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript 调试.04_5弹出警告框.html">
     <configuration name="01_HellowWorld及嵌入JS代码.html" type="JavascriptDebugType" temporary="true" uri="http://localhost:63342/JSDemo/DemoOnCalss/Unit01-JS入门/JS/01_HellowWorld及内联JS代码.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="03_改变元素内容.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSDemo/DemoOnCalss/Unit01-JS入门/JS/03_改变元素内容.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="04_5弹出警告框.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSDemo/DemoOnCalss/Unit01-JS入门/JS/04_5弹出警告框.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript 调试.04_5弹出警告框.html" />
+        <item itemvalue="JavaScript 调试.03_改变元素内容.html" />
         <item itemvalue="JavaScript 调试.01_HellowWorld及嵌入JS代码.html" />
       </list>
     </recent_temporary>
@@ -52,11 +82,23 @@
       <option name="presentableId" value="Default" />
       <updated>1603001918537</updated>
       <workItem from="1603001919612" duration="6864000" />
+      <workItem from="1603326913659" duration="3078000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="986" y="252" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603002184907">
@@ -71,9 +113,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1536.824@0.0.1536.824" timestamp="1603002365180" />
-    <state x="658" y="245" width="672" height="678" key="search.everywhere.popup" timestamp="1603002365177">
+    <state x="658" y="245" width="672" height="678" key="search.everywhere.popup" timestamp="1603329370521">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="658" y="245" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603002365177" />
+    <state x="658" y="245" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603329370521" />
   </component>
 </project>
