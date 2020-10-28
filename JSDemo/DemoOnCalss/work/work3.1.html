@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>500以内被3整除的</title>
+</head>
+<body>
+<script >
+    var A= [], B= [];
+
+    for(var i = 1; i < 500; i ++){
+        if(i % 3 === 0){
+            A.push(i)
+
+        }
+        if(i % 4 === 0){
+            B.push(i);
+
+        }
+
+    }
+    var D=A.concat(B);
+
+    D.sort(function(a,b){return b-a});
+    for(i=1;i<D.length-1;){
+        if(D[i]===D[i+1]){
+            D.splice(i+1,1)
+        }
+        else {
+            i++;
+        }
+
+
+    }
+    document.write(D);
+
+
+</script>
+</body>
+</html>

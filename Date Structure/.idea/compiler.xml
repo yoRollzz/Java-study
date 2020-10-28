@@ -15,5 +15,8 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_STRING" value="-J-Duser.language=en" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Date-Structure" options="" />
+    </option>
   </component>
 </project>

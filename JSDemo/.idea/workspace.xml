@@ -52,24 +52,32 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript 调试.04_5弹出警告框.html">
-    <configuration name="01_HellowWorld及嵌入JS代码.html" type="JavascriptDebugType" temporary="true" uri="http://localhost:63342/JSDemo/DemoOnCalss/Unit01-JS入门/JS/01_HellowWorld及内联JS代码.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="03_改变元素内容.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSDemo/DemoOnCalss/Unit01-JS入门/JS/03_改变元素内容.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript 调试.work3.4.html">
     <configuration name="04_5弹出警告框.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSDemo/DemoOnCalss/Unit01-JS入门/JS/04_5弹出警告框.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="操作HTML元素.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSDemo/DemoOnCalss/Unit01-JS入门/JS/操作HTML元素.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="work3.1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSDemo/DemoOnCalss/work/work3.1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="work3.2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSDemo/DemoOnCalss/work/work3.2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="work3.4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSDemo/DemoOnCalss/work/work3.4.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript 调试.work3.4.html" />
+        <item itemvalue="JavaScript 调试.work3.2.html" />
+        <item itemvalue="JavaScript 调试.work3.1.html" />
+        <item itemvalue="JavaScript 调试.操作HTML元素.html" />
         <item itemvalue="JavaScript 调试.04_5弹出警告框.html" />
-        <item itemvalue="JavaScript 调试.03_改变元素内容.html" />
-        <item itemvalue="JavaScript 调试.01_HellowWorld及嵌入JS代码.html" />
       </list>
     </recent_temporary>
   </component>
@@ -83,6 +91,8 @@
       <updated>1603001918537</updated>
       <workItem from="1603001919612" duration="6864000" />
       <workItem from="1603326913659" duration="3078000" />
+      <workItem from="1603432574749" duration="5964000" />
+      <workItem from="1603439583236" duration="3659000" />
     </task>
     <servers />
   </component>
@@ -99,16 +109,33 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="986" y="252" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603002184907">
+    <state x="986" y="252" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603436186483">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="986" y="252" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1603002184907" />
-    <state x="216" y="114" key="SettingsEditor" timestamp="1603003699639">
+    <state x="986" y="252" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1603436186483" />
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom" timestamp="1603443062733">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="216" y="114" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603003699639" />
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603443062733" />
+    <state width="1515" height="261" key="GridCell.Tab.0.center" timestamp="1603443062733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603443062733" />
+    <state width="1515" height="261" key="GridCell.Tab.0.left" timestamp="1603443062733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603443062733" />
+    <state width="1515" height="261" key="GridCell.Tab.0.right" timestamp="1603443062733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603443062733" />
+    <state x="216" y="114" key="SettingsEditor" timestamp="1603440542121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="216" y="114" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603440542121" />
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1603002365180">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
