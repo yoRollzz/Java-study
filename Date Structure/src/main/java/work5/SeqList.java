@@ -1,5 +1,9 @@
 package work5;
 
+import lombok.val;
+
+import java.util.Comparator;
+
 /**
  * @ClassName SeqList
  * @Description TODO
@@ -7,7 +11,7 @@ package work5;
  * @Date 2020/10/19
  **/
 
-public class SeqList<T> {
+public class SeqList<T extends Comparable> {
 
     public int n;
     public Object[] element;
@@ -139,6 +143,40 @@ public class SeqList<T> {
         }
         return str + ")";
     }
+
+    public int binarySearch(T key) {
+        int low = 0;
+        int high = this.element.length - 1;
+        while (low < high) {
+            int mid = (low + high / 2);
+            if (key == this.element[mid]) {
+                System.out.println("此关键字在seqList中的位置为:" + mid);
+                break;
+            }
+            if (key.compareTo(this.element[mid]) > 0) {
+                low = mid + 1;
+            }
+            if (key.compareTo(this.element[mid]) < 0) {
+                high = mid - 1;
+            }
+        }
+        return -1;
+    }
+    public Integer erfenSearch(int key) {
+        int start = 0;
+        int end = this.element.length - 1;
+        while (start <= end) {
+            int middle = (start + end) / 2;
+            if (key < (int)this.element[middle]) {
+                end = middle - 1;
+            } else if (key > (int)this.element[middle]) {
+                start = middle + 1;
+            } else {
+                return middle;
+            }
+        }
+        return -1;
+    }
     public static void main(String[] args) {
         // TODO Auto-generated method stub
         String[] value = { "a", "b", "c", "d" };
@@ -150,5 +188,10 @@ public class SeqList<T> {
         System.out.println("删除之后"+seq1.tosString());
         seq1.remove("qwq");
         System.out.println("删除值之后"+seq1.tosString());
+        seq1.binarySearch("A");
+        Integer[] value1 = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+        SeqList<Integer> seq2 = new SeqList<Integer>(value1);
+        System.out.println(seq2.erfenSearch(7));
+
     }
 }

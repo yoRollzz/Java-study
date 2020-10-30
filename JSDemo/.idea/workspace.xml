@@ -55,11 +55,11 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript 调试.work3.4.html">
-    <configuration name="04_5弹出警告框.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSDemo/DemoOnCalss/Unit01-JS入门/JS/04_5弹出警告框.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript 调试.01_HellowWorld及内联JS代码.html">
+    <configuration name="01_HellowWorld及内联JS代码.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSDemo/DemoOnCalss/Unit01-JS入门/JS/01_HellowWorld及内联JS代码.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="操作HTML元素.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSDemo/DemoOnCalss/Unit01-JS入门/JS/操作HTML元素.html" useBuiltInWebServerPort="true">
+    <configuration name="JavaScript字面量.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSDemo/DemoOnCalss/Unit01-JS入门/JS/JavaScript字面量.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="work3.1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSDemo/DemoOnCalss/work/work3.1.html" useBuiltInWebServerPort="true">
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript 调试.01_HellowWorld及内联JS代码.html" />
+        <item itemvalue="JavaScript 调试.JavaScript字面量.html" />
         <item itemvalue="JavaScript 调试.work3.4.html" />
         <item itemvalue="JavaScript 调试.work3.2.html" />
         <item itemvalue="JavaScript 调试.work3.1.html" />
-        <item itemvalue="JavaScript 调试.操作HTML元素.html" />
-        <item itemvalue="JavaScript 调试.04_5弹出警告框.html" />
       </list>
     </recent_temporary>
   </component>
@@ -93,6 +93,8 @@
       <workItem from="1603326913659" duration="3078000" />
       <workItem from="1603432574749" duration="5964000" />
       <workItem from="1603439583236" duration="3659000" />
+      <workItem from="1604022980354" duration="2659000" />
+      <workItem from="1604035436382" duration="6490000" />
     </task>
     <servers />
   </component>
@@ -140,9 +142,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1536.824@0.0.1536.824" timestamp="1603002365180" />
-    <state x="658" y="245" width="672" height="678" key="search.everywhere.popup" timestamp="1603329370521">
+    <state x="658" y="245" width="672" height="678" key="search.everywhere.popup" timestamp="1604023218690">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="658" y="245" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603329370521" />
+    <state x="658" y="245" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604023218690" />
   </component>
 </project>

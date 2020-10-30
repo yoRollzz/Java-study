@@ -21,7 +21,7 @@ public final class SeqStack<T> implements Stack<T> {
     }
     @Override
     public void push(T x){
-        this.list.insert(x);
+        this.list.insert((Comparable) x);
     }
     @Override
     public T peek(){

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<label for="c"></label><input type="text" id="c">
+<br>
+<input type="button" onclick="change()" value="转换按钮">
+<br>
+<span id="f"></span>
+<script>
+    function change() {
+        var c = document.getElementById('c').value;
+        document.getElementById('f').innerHTML = c * 9 / 5 + 32;
+
+    }
+</script>
+</body>
+</html>

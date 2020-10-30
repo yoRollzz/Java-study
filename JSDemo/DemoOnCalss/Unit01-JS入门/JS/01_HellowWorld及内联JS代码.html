@@ -5,13 +5,29 @@
     <title>01_第一个JS程序</title>
 </head>
 <body>
-<'--最常见的js代码引入方式-->
+<h1 id="d">22222</h1>
+<p id="demo">1111111111</p>
+<button onclick="myFunction()">点我</button>
 <script>
+
     document.write("Hellow World,我的第一个JavaScript代码");
     window.alert("我的第一个弹出框!");
     console.log("我向控制台打印的一点内容");
+    document.write(Date());
+    //使用 window.alert() 弹出警告框。
+    //使用 document.write() 方法将内容写到 HTML 文档中。
+    //使用 innerHTML 写入到 HTML 元素。
+    // 使用 console.log() 写入到浏览器的控制台。
+    //document.getElementById("demo").innerHTML="陈璐瑶傻逼";
+    document.getElementById("d").innerHTML="陈璐瑶傻逼";
+    document.getElementById("demo")
+    //是使用 id 属性来查找 HTML 元素的 JavaScript 代码 。
+    function myFunction(){
+        document.write(Date());
+    }
 
 </script>
+
 
 </body>
 </html>
